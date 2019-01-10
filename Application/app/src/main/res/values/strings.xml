@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">实训</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="p_username">请输入用户名</string>
+    <string name="p_password">请输入密码</string>
+    <string name="registe">注册</string>
+    <string name="login">登录</string>
+    <string-array name="icons">
+        <item>@drawable/p1</item>
+        <item>@drawable/p2</item>
+        <item>@drawable/p3</item>
+        <item>@drawable/p4</item>
+        <item>@drawable/p5</item>
+        <item>@drawable/p6</item>
+        <item>@drawable/p7</item>
+        <item>@drawable/p8</item>
+        <item>@drawable/p9</item>
+        <item>@drawable/p10</item>
+        <item>@drawable/p11</item>
+        <item>@drawable/p12</item>
+    </string-array>
+    <array name="names">
+        <item>"爱心"</item>
+        <item>"啊"</item>
+        <item>"白眼"</item>
+        <item>"口水"</item>
+        <item>"龇牙"</item>
+        <item>"闭嘴"</item>
+        <item>"大惊"</item>
+        <item>"大笑"</item>
+        <item>"饿死"</item>
+        <item>"发呆"</item>
+        <item>"尴尬"</item>
+        <item>"好吃"</item>
+    </array>
+    <string-array name="logs_image">
+        <item>@drawable/g1</item>
+        <item>@drawable/g2</item>
+        <item>@drawable/g3</item>
+        <item>@drawable/g4</item>
+        <item>@drawable/g5</item>
+        <item>@drawable/g6</item>
+        <item>@drawable/g7</item>
+        <item>@drawable/g8</item>
+        <item>@drawable/g9</item>
+    </string-array>
+    <array name="logs_name">
+        <item>"策略下单"</item>
+        <item>"策略信号"</item>
+        <item>"我的订单"</item>
+        <item>"我的会员"</item>
+        <item>"我的收入"</item>
+        <item>"我的主页"</item>
+        <item>"系统消息"</item>
+        <item>"消息中心"</item>
+        <item>"增值服务"</item>
+    </array>
+</resources>
